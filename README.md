@@ -36,9 +36,9 @@ Compatibilidade
 Este projeto é de código aberto e contribuições são bem-vindas!
 
 ## Contato
-- 👨‍💼 Desenvolvido por [Seu Nome]
-- 📧 E-mail: [seu-email@exemplo.com]
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil]
+- 👨‍💼 Desenvolvido por Heitor Giussani Dalla Villa
+- 📧 E-mail: heitorvillavilla@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/heitordallavilla/
 
 ## Observações Finais
 Projeto inspirado no <a href="https://www.udemy.com/course/curso-de-javascript-html-e-css-projetos-reais/">Curso de javascript</a>
